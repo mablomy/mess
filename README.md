@@ -1,2 +1,3 @@
-# mess
-My Excellent Shortcut Service - Demo app
+# Anota
+Anota - Demo app
+(An Obsession To Abbreviate)
